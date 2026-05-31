@@ -1,0 +1,7 @@
+openapi: 3.1.0
+info:
+  title: ICM Protocol Vectors API (Placeholder)
+  version: 0.0.0-placeholder
+  description: Placeholder specification. Define data vector REST resources here.
+paths: {}
+components: {}

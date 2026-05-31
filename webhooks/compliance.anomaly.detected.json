@@ -1,0 +1,4 @@
+{
+  "event": "compliance.anomaly.detected",
+  "_placeholder": "Webhook payload contract placeholder for compliance anomaly detection events."
+}

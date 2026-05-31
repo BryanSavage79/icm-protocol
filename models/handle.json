@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ICM Handle (Placeholder)",
+  "description": "Placeholder schema for ICM handle structure and validation rules.",
+  "type": "object",
+  "additionalProperties": true
+}
