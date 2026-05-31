@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ICM Data Vectors (Placeholder)",
+  "description": "Placeholder schema for data vector structures and semantics.",
+  "type": "object",
+  "additionalProperties": true
+}

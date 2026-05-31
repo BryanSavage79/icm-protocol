@@ -1,0 +1,16 @@
+"""
+ICM Protocol GraphQL schema placeholder.
+Replace with canonical type definitions for the public specification.
+"""
+
+type Query {
+  _placeholder: String
+}
+
+type Mutation {
+  _placeholder: String
+}
+
+type Subscription {
+  _placeholder: String
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ICM Permissions (Placeholder)",
+  "description": "Placeholder schema for permissions and authorization models.",
+  "type": "object",
+  "additionalProperties": true
+}
